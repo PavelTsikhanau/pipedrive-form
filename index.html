@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>pipedrive-form</title>
     <link rel="stylesheet" href="./style.css" />
-    <script type="module" src="./index.js"></script>
+    <script type="module" src="./index.js"></script> 
   </head>
   <body>
 
@@ -57,10 +57,10 @@
         </div>
         <div class="form-block">
           <h3>Scheduled</h3>
-          <input id="start-date" type="text" placeholder="Start date" pattern="[0-9]{2}[.][0-9]{2}[.][0-9]{4}" title="DD.MM.YYYY" autocomplete="off">
+          <input id="start-date" type="date" placeholder="Start date" pattern="[0-9]{2}[.][0-9]{2}[.][0-9]{4}" autocomplete="off">
           <div class="inside-form-row">
-            <input id="start-time" type="text" placeholder="Start time" autocomplete="off">
-            <input id="end-time" type="text" placeholder="End time" autocomplete="off">
+            <input id="start-time" type="time" placeholder="Start time" autocomplete="off">
+            <input id="end-time" type="time" placeholder="End time" autocomplete="off">
           </div>
           <select name="Test select" id="test-select">
             <option value="Test one">Test one</option>
@@ -75,6 +75,6 @@
       </div>    
 
     </form>
- 
+  
   </body>
 </html>
