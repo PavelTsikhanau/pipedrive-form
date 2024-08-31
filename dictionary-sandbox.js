@@ -1,0 +1,18 @@
+export const dictionary_sandbox = {
+  clients_first_name: '533a40609f92db2223582db810ce860ee9b40f16',
+  clients_last_name: 'ba6456b0660511e2b92f97b289bc771f26e0aaae',
+  phone: '08762b00ae50fb45ee0b94c14a2fa2f376340b67',
+  email: '8f1f1a9ac19ab212ee7dece79f2a0e1e2d238e74',
+  address: '38a02393b4f718fc5d06c2ac9abfd0239f4eddbe',
+  city: '985a3dd8d1e616120aae9bf5ce9e29e8893bdab6',
+  state: '5811958b6a8c8f1a27ca3b723daa0674a92e991f',
+  zip_code: '2189db973b227797baa0ff7d88172f41b0cf6ca6',
+  area: '6e29e7ac5b530d6a13c2509ee75d8d6324c7201c',
+  job_type: 'abc3589780f2ed20da9718793aaac7038575178c',
+  job_source: '5c1109fac5082c3adffbac660010a4731551a573',
+  job_description: 'f0f1447313e83fa72fe5eed02ef2aba3cb4dcfed',
+  start_date: '7e63f5e60dd142329316a162a6ad93f09f6634b2',
+  start_time: '6d72c8a38026cfe8d51d72be93f4731a000929ea',
+  end_time: '633edd9644ee967f96b95b5762afddb82660d5ec',
+  test_select: 'd8554a6c9220659f2bcc9c0467c3862c3bece716',
+}
